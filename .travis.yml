@@ -10,6 +10,7 @@ before_install:
   - mkdir public
   - cd public
   - ls -la
+
 install:
   - ls -la
   - npm install
